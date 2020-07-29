@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently learning in mathematical programming 📝 (Functional Programming) but current working on Golang.
+
 <!--
 **thamthee/thamthee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
