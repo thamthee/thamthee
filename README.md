@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently learning in mathematical programming 📝 (Functional Programming) and currently working on Golang.
+I'm currently learning in Functional Programming 📝 and currently working on Golang.
 
 <!--
 **thamthee/thamthee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
